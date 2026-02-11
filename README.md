@@ -11,3 +11,8 @@ when pasting an Empty String ("") on a selected text on macOS with NSPasteboard,
 5. you then have 3 seconds to go select some text on an app
 6. after 3 seconds NSPasteboard will paste "" on the selected text
 7. you can see that the selected text is removed on any app (Safari, Xcode, third party apps) but it is not removed on Pages, Numbers and Keynote
+
+# beautiful video
+
+https://github.com/user-attachments/assets/85991205-3b11-469c-9e32-ac8364c1fe1f
+
